@@ -34,7 +34,7 @@ Base API Url: https://restcountries.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/PanhaSP/Countries-Catalog-Implementation.github.io.git
+  git clone https://github.com/PanhaSP/Countries-Catalog-Implementation.git
 ```
 
 Go to the project directory
